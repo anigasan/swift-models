@@ -4,7 +4,7 @@ This example demonstrates how to train the custom-defined models (based on examp
 
 Two custom models are defined, and one is applied to an instance of the CIFAR-10 dataset. A custom training loop is defined, and the training and test losses and accuracies for each epoch are shown during training.
 
-## Setup
+## Setups
 
 To begin, you'll need the [latest version of Swift for
 TensorFlow](https://github.com/tensorflow/swift/blob/master/Installation.md)
